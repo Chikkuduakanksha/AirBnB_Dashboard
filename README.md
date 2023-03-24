@@ -17,6 +17,7 @@ As a data analyst, I believe that the power of data lies in its ability to tell 
 
 All of my projects are available at [Projects](https://github.com/Chikkuduakanksha?tab=repositories)
 
- 
+ Public [Tableau](https://public.tableau.com/app/profile/akanksha.chikkudu/viz/AirBnBDashboard_16786414093610/AirBnb)
+
 
 **HAPPY LEARNING**
